@@ -23,6 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
+### CLICK ON THE THUMBNAIL BELOW TO WATCH THE WALKTHROUGH VIDEO
 [![Walkthrough Thumbnail Link](https://img.youtube.com/vi/mVdAN_z17AI/maxresdefault.jpg)](https://youtu.be/mVdAN_z17AI)
 
 <!-- Replace this with whatever GIF tool you used! -->
