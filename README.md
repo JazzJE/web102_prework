@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mVdAN_z17AI?si=Vr2Gf48NS9OxHIqv" title="Video Walkthrough" alt="Video Walkthrough" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Walkthrough Thumbnail Link](https://img.youtube.com/vi/mVdAN_z17AI/maxresdefault.jpg)](https://youtu.be/mVdAN_z17AI)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
